@@ -1,0 +1,30 @@
+{
+    "devs"  : [
+        {
+            "id"    : 1,
+            "name"  : "Jamadul Awal",
+            "age"   : 25,
+            "skill" : "Wordpress",
+            "location"  : "Rajshahi",
+            "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNCDplD_v_1KfSNO0zhO-6nSru6ntFmQkNBH7HAFqi_LJbwX2ejLIBOKx7_3Ju97AU_s&usqp=CAU"
+        },
+
+        {
+            "id"    : 2,
+            "name"  : "Awal",
+            "age"   : 25,
+            "skill" : "Wordpress",
+            "location"  : "Rajshahi",
+            "photo" : "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+
+        {
+            "id"    : 3,
+            "name"  : "Remon",
+            "age"   : 25,
+            "skill" : "Wordpress",
+            "location"  : "Rajshahi",
+            "photo" : "https://i.pinimg.com/564x/e2/29/5f/e2295f7b9b470f873d0cc4b088ac0726.jpg"
+        }
+    ]
+}
